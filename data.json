@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Work",
+    "color": "var(--light-red-1)",
+    "img": "./images/icon-work.svg",
+    "timeframes": {
+      "daily": {
+        "current": "5 hrs",
+        "previous": "7 hrs"
+      },
+      "weekly": {
+        "current": "32 hrs",
+        "previous": "36 hrs"
+      },
+      "monthly": {
+        "current": "103 hrs",
+        "previous": "128 hrs"
+      }
+    }
+  },
+  {
+    "title": "Play",
+    "color": "var(--soft-blue)",
+    "img": "./images/icon-play.svg",
+    "timeframes": {
+      "daily": {
+        "current": "1 hr",
+        "previous": "2 hrs"
+      },
+      "weekly": {
+        "current": "10 hrs",
+        "previous":" 8 hrs"
+      },
+      "monthly": {
+        "current": "23 hrs",
+        "previous": "29 hrs"
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "color" : "var(--light-red-2)", 
+    "img": "./images/icon-study.svg",
+    "timeframes": {
+      "daily": {
+        "current": "0",
+        "previous": "1 hr"
+      },
+      "weekly": {
+        "current":" 4 hrs",
+        "previous":" 7 hrs"
+      },
+      "monthly": {
+        "current": "13 hrs",
+        "previous": "19 hrs"
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "color": "var(--lime-green)",
+    "img": "./images/icon-exercise.svg",
+    "timeframes": {
+      "daily": {
+        "current": "1 hr",
+        "previous": "1 hr"
+      },
+      "weekly": {
+        "current":" 4 hrs",
+        "previous":" 5 hrs"
+      },
+      "monthly": {
+        "current": "11 hrs",
+        "previous": "18 hrs"
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "color": "var(--violet)",
+    "img": "./images/icon-social.svg",
+    "timeframes": {
+      "daily": {
+        "current": "1 hr",
+        "previous": "3 hrs"
+      },
+      "weekly": {
+        "current":" 5 hrs",
+        "previous": "10 hrs"
+      },
+      "monthly": {
+        "current": "21 hrs",
+        "previous": "23 hrs"
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "color": "var(--soft-orange)",
+    "img": "./images/icon-self-care.svg",
+    "timeframes": {
+      "daily": {
+        "current": "0",
+        "previous": "1 hr"
+      },
+      "weekly": {
+        "current":" 2 hrs",
+        "previous":" 2 hrs"
+      },
+      "monthly": {
+        "current":" 7 hrs",
+        "previous": "11 hrs"
+      }
+    }
+  }
+]
